@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name":"Jixuan Li",
+    "description":"I am a Computer Science new grad student, currently I live in Montreal. I'm actively looking for a developer position!",
+    "image":"avatar_m.jpg",
+    "bio":"Java / Python / Javascript alcoholic, trying to build personal projects by React.js / Spring boot right now. ",
+    "contactmessage":"Now I know you want to contact me!",
+    "email": "jixuanli1230@yahoo.com",
+    "phone": "438-969-0651",
+    "github":"https://github.com/ricky-j-li",
+    "project":"https://github.com/ricky-j-li/react-nice-resume",
+    "address":{
+      "city":"Montreal",
+      "state":"QC"
+    },
+    "resumedownload":"./resource/Jixuan Li_Resume_DEC2020_full.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/li.ricky.583/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/jixuanli",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/rickyli_30",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/ricky-J-Li",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Following is my skill stack :)",
+    "education":[
+      {
+        "school":"Concordia University, Montreal",
+        "degree":"Bachelor of Computer Science",
+        "graduated":"December 2020",
+        "description":"GPA: 3.95, Dean's list student",
+        "scholarships":"Scholarship: United Nations Internship Award, Dean’s List Award, Quebec Int’l Tuition Exemption ",
+        "relatedCoursework": "Related Coursework: Object Oriented Programming, Database, Web Service Design, Data Structure & Algorithm, Machine Learning, Artificial Intelligence"
+      }
+    ],
+    "work":[
+      {
+        "company":"Bombardier Aerospace",
+        "title":"Developer Intern",
+        "years":"June 2020 - December 2020",
+        "description":"Designed BI solution applets and codes - During the internship, I developed email automation processing, SAP downloading tools for the team. Also, we designed Oracle DB queries and maintained the database together."
+      },
+      {
+        "company":"International Civil Aviation Organization (ICAO)",
+        "title":"Web Developer Intern",
+        "years":"September 2019 - December 2019",
+        "description":"Enhanced the webpage performance / Designed and coded the customer email template. Except being codeblooded, I am also an aviation fan. Interned at the United Nation's aviation department was really a precious experience. I maintained the code of ICAO's blog site, implement CDN and other performance enhancing actions. Also I participated the daily newsletter email template coding.",
+        "link": "https://unitingaviation.com/news/general-interest/my-experience-as-an-intern-at-the-international-civil-aviation-organization/"
+      },{
+        "company": "McGill University - IT service department",
+        "title": "Developer Intern",
+        "years": "May 2019 - August 2019",
+        "description": "Maintained the code of campus management system. Although I didn't study at McGill, I am also a McGill Alumni :). During this internship, I maintained the Java code of their campus system. I fixed the bug in the PhD's offer letter, the parking bill calculation, also the logic of giving others access to their transcripts."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"65%"
+      },
+      {
+        "name":"Java",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"60%"
+      },
+      {
+        "name":"Springboot",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Food Market - Delivery Platform",
+        "category":"Angular - Springboot group project",
+        "image":"foodmarket.png",
+        "url":"https://github.com/ricky-J-Li/FoodMarket"
+      },
+      {
+        "title":"Personal Assistant App",
+        "category":"(offline now) A personal assistant app I built",
+        "image":"todo.webp",
+        "url":"https://github.com/ricky-J-Li/Personal-Assistant-app-react-springboot"
+      },
+      {
+        "title":"Personal Blog",
+        "category":"This is the personal blog that I started, I'd post everything about my coding life on it",
+        "image":"blog.png",
+        "url":"https://ricky-j-li.github.io/"
+      }
+    ]
+  }
+}
